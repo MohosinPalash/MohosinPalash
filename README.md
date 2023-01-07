@@ -1,4 +1,4 @@
-![You are exploring a Computer Science Enthusiast.](https://i.ibb.co/gznKdmr/Purple-Pink-Modern-Programmer-Linked-In-Banner.gif)
+![You are exploring a Computer Science Enthusiast.](https://i.ibb.co/7gX5QmH/Cover.gif)
 
 <h1 align="center">Hi 👋, I'm <b>Mohosin Islam Palash</b></h1>
 <h3 align="center">A Passionate Frontend Web Developer from Bnagladesh</h3>
