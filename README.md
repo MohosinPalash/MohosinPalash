@@ -6,7 +6,7 @@
 
 - 📫 Reach me **mohosinislampolash@gmail.com**
 
-- 🔭 I’m currently working on **Frontend Web Development.**
+- 🔭 Software Engineer at **[Enosis Solutions](https://www.enosisbd.com/)**
 
 - 🌱 I’m currently learning **Competitive Programming and Machine Learning.**
 
