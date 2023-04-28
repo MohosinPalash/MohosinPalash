@@ -8,7 +8,7 @@
 
 - 🔭 Software Engineer at **[Enosis Solutions](https://www.enosisbd.com/)**
 
-- 🌱 I’m currently learning **Competitive Programming and Machine Learning.**
+- 🌱 I’m currently learning **Android and iOS Mobile Application Development using Flutter and SwiftUI.**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://palash113.netlify.app/)
 
