@@ -1,7 +1,7 @@
 ![You are exploring a Computer Science Enthusiast.](https://i.ibb.co/7gX5QmH/Cover.gif)
 
 <h1 align="center">Hi 👋, I'm <b>Mohosin Islam Palash</b></h1>
-<h3 align="center">A Passionate Frontend Web Developer from Bnagladesh</h3>
+<h3 align="center">A Passionate Android and iOS Application Developer</h3>
 
 
 - 📫 Reach me **mohosinislampolash@gmail.com**
