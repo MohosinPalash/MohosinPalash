@@ -1,14 +1,14 @@
 ![You are exploring a Computer Science Enthusiast.](https://i.ibb.co/7gX5QmH/Cover.gif)
 
 <h1 align="center">Hi 👋, I'm <b>Mohosin Islam Palash</b></h1>
-<h3 align="center">A Passionate Android and iOS Application Developer</h3>
+<h3 align="center">An iOS Application Developer</h3>
 
 
 - 📫 Reach me **mohosinislampolash@gmail.com**
 
 - 🔭 Software Engineer at **[Enosis Solutions](https://www.enosisbd.com/)**
 
-- 🌱 I’m currently learning **Android and iOS Mobile Application Development using Flutter and SwiftUI.**
+- 🌱 I’m currently learning **Android and iOS Mobile Application Development**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://palash113.netlify.app/)
 
